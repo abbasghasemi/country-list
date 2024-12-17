@@ -23,7 +23,7 @@
   },
   "autoload-dev": {
     "psr-4": {
-      "AG\\Country\\Test\\": "test/"
+      "AG\\CountryList\\Test\\": "test/"
     }
   },
   "config": {
